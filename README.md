@@ -16,3 +16,9 @@ StockScraper2.1.ipynb must be downloaded and run through a Python environment. U
 
 Replace webhook variables with webhooks to user's Discord server, with different webhooks for each channel.
 Currently, this file is presented as a Jupyter Notebook file, and must be edited manually to adjust the user's stock portfolio and purchase prices. Eventually, I hope to design a GUI to make this process easier and more attractive.
+
+## Versions
+
+Version 1.2: Scrapes prices from Google instead of WallStreetZen for more current prices.
+Version 1.1: Scrapes stock prices, sends price alerts, and formats/sends daily summaries to secondary channel/webhook.
+Version 1.0: Minimum viable product, scrapes stock prices and sends price alerts to one Discord channel based on preset requirements.
