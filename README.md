@@ -10,7 +10,7 @@ Developed in Visual Studio Code as a Python notebook file. Also uses BeautifulSo
 
 ## Installation
 
-StockScraper2.1.ipynb must be downloaded and run through a Python environment. Users must have already run "pip install beautifulsoup4" and "pip install discord.py" to execute this script.
+StockScraper1.2.ipynb must be downloaded and run through a Python environment. Users must have already run "pip install beautifulsoup4" and "pip install discord.py" to execute this script.
 
 ## Usage
 
